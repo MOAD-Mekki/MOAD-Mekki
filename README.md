@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Moad Mekki
 
-<!--
-**MOAD-Mekki/MOAD-Mekki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Telecommunications & ICT Engineering Student  
+📡 HCIA-Datacom Certified  
+💻 Passionate about Networking & Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Networking: VLAN, OSPF, RIP, NAT, DHCP, ACL
+- Tools: Huawei eNSP
+- Programming: JavaScript (learning)
+
+---
+
+## 📂 Projects
+- 30 Days of JavaScript (learning journey)
+- More coming soon...
+
+---
+
+## 📈 Goals
+- Build real networking labs
+- Create full-stack projects
+- Get internship in networking field
+
+---
+
+## 📫 Contact
+- Email: your email here
