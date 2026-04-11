@@ -28,4 +28,4 @@
 
 ## 📫 Contact
 - Email: moadahmedabdesselammekki@gmail.com
-- Linkedin: https://www.linkedin.com/in/mekki-moad-16b831391
+- Linkedin: https://www.linkedin.com/in/mekki-moad
