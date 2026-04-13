@@ -15,6 +15,7 @@
 
 ## 📂 Projects
 - 30 Days of JavaScript (learning journey)
+- Huawei eNSP Networking Labs (Ongoing)
 - More coming soon...
 
 ---
