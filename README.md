@@ -25,7 +25,7 @@
 ## 📈 Goals
 - Build real networking labs
 - Create full-stack projects
-- Get internship in networking & web development field
+- Get internship in networking & web development fields
 
 ---
 
