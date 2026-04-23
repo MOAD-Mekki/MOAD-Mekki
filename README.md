@@ -16,6 +16,8 @@
 ## 📂 Projects
 - 30 Days of JavaScript (learning journey)
 - Huawei eNSP Networking Labs (Ongoing)
+- Personal Portfolio
+- Telegram Tracer
 - More coming soon...
 
 ---
@@ -23,7 +25,7 @@
 ## 📈 Goals
 - Build real networking labs
 - Create full-stack projects
-- Get internship in networking field
+- Get internship in networking & web development field
 
 ---
 
