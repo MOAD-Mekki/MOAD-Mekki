@@ -9,7 +9,11 @@
 ## 🚀 Skills
 - Networking: VLAN, OSPF, RIP, NAT, DHCP, ACL
 - Tools: Huawei eNSP
-- Programming: JavaScript (learning)
+   Programming:
+- HTML5
+- CSS3
+- JavaScript
+- React
 
 ---
 
