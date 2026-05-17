@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Moad Mekki
+#  Hi, I'm Moad Mekki
 
-🎓 Telecommunications & ICT Engineering Student  
-📡 HCIA-Datacom Certified  
-💻 Passionate about Networking & Web Development  
+- Telecommunications & ICT Engineering Student  
+- HCIA-Datacom Certified  
+- Passionate about Networking & Web Development  
 
 ---
 
-## 🚀 Skills
+##  Skills
 - Networking: VLAN, OSPF, RIP, NAT, DHCP, ACL
 - Tools: Huawei eNSP
 - Programming: HTML5, CSS3, JavaScript, React
 
 ---
 
-## 📂 Projects
+##  Projects
 - 30 Days of JavaScript (learning journey)
 - Huawei eNSP Networking Labs (Ongoing)
 - Personal Portfolio
@@ -22,13 +22,13 @@
 
 ---
 
-## 📈 Goals
+##  Goals
 - Build real networking labs
 - Create full-stack projects
 - Get internship in networking & web development fields
 
 ---
 
-## 📫 Contact
+##  Contact
 - Email: moadahmedabdesselammekki@gmail.com
 - Linkedin: https://www.linkedin.com/in/mekki-moad
