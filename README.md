@@ -9,7 +9,7 @@
 ##  Skills
 - Networking: VLAN, OSPF, RIP, NAT, DHCP, ACL
 - Tools: Huawei eNSP
-- Programming: HTML5, CSS3, JavaScript, React
+- Programming: HTML5, CSS3, JavaScript, React and TailindCSS
 
 ---
 
@@ -18,6 +18,7 @@
 - Huawei eNSP Networking Labs (Ongoing)
 - Personal Portfolio
 - Telegram Tracer
+- Khatma Tracker
 - More coming soon...
 
 ---
