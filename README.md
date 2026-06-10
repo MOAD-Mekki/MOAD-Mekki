@@ -83,4 +83,3 @@ A web application designed to help users track Quran reading progress.
 
 * Email: moadahmedabdesselammekki@gmail.com
 * LinkedIn: www.linkedin.com/in/mekki-moad
-* Portfolio: moad-mekki.github.io/portfolio
