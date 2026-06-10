@@ -1,4 +1,4 @@
-Hi, I’m Moad Mekki 
+## Hi, I’m Moad Mekki 
 
 Telecommunications & ICT Engineering Student
 
@@ -16,7 +16,7 @@ I’m a Telecommunications and ICT Engineering student with a strong interest in
 
 ## Skills
 
-Networking
+- Networking
 
 * VLANs
 * Static Routing
@@ -26,11 +26,11 @@ Networking
 * DHCP
 * ACLs
 
-Networking Tools
+- Networking Tools
 
 * Huawei eNSP
 
-Web Development
+- Web Development
 
 * HTML5
 * CSS3
@@ -38,7 +38,7 @@ Web Development
 * React
 * Tailwind CSS
 
-Version Control
+- Version Control
 
 * Git
 * GitHub
@@ -47,23 +47,23 @@ Version Control
 
 ## Projects
 
-🖧 Huawei eNSP Networking Labs
+- Huawei eNSP Networking Labs
 
 A collection of networking labs covering routing, switching, VLANs, and network services.
 
- Personal Portfolio
+- Personal Portfolio
 
 My personal website showcasing projects, skills, and learning journey.
 
- 30 Days of JavaScript
+- 30 Days of JavaScript
 
 A structured JavaScript learning challenge with daily exercises and projects.
 
- Telegram Tracer
+- Telegram Tracer
 
 A networking-focused project exploring automation and communication tools.
 
- Khatma Tracker
+- Khatma Tracker
 
 A web application designed to help users track Quran reading progress.
 
