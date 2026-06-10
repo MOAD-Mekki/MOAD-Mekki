@@ -16,7 +16,7 @@ I’m a Telecommunications and ICT Engineering student with a strong interest in
 
 ## Skills
 
-- Networking
+# Networking
 
 * VLANs
 * Static Routing
@@ -26,11 +26,11 @@ I’m a Telecommunications and ICT Engineering student with a strong interest in
 * DHCP
 * ACLs
 
-- Networking Tools
+# Networking Tools
 
 * Huawei eNSP
 
-- Web Development
+# Web Development
 
 * HTML5
 * CSS3
@@ -38,7 +38,7 @@ I’m a Telecommunications and ICT Engineering student with a strong interest in
 * React
 * Tailwind CSS
 
-- Version Control
+# Version Control
 
 * Git
 * GitHub
