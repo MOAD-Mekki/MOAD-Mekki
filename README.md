@@ -1,24 +1,86 @@
-<h1 align="center">Hi 👋, I'm Ahmed Abdesselam MEKKI MOAD</h1>
-<h3 align="center">A passionate about Networking and web development</h3>
+Hi, I’m Moad Mekki 
 
-- 🌱 I’m currently learning **Frontend development**
+Telecommunications & ICT Engineering Student
 
-- 👨‍💻 All of my projects are available at [https://moad-mekki.github.io/portfolio/](https://moad-mekki.github.io/portfolio/)
+HCIA-Datacom Certified
 
-- 💬 Ask me about **React, UI/UX design**
+Passionate about Networking, System Administration, and Web Development
 
-- 📫 How to reach me **moadahmedabdesselammekki@gmail.com**
+⸻
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moad mekki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moad mekki" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I’m a Telecommunications and ICT Engineering student with a strong interest in computer networking and modern web technologies. I enjoy building practical networking labs, developing web applications, and continuously expanding my technical skills through hands-on projects.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moad-mekki&show_icons=true&locale=en&layout=compact" alt="moad-mekki" /></p>
+⸻
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moad-mekki&show_icons=true&locale=en" alt="moad-mekki" /></p>
+## Skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moad-mekki&" alt="moad-mekki" /></p>
+Networking
+
+* VLANs
+* Static Routing
+* RIP
+* OSPF
+* NAT
+* DHCP
+* ACLs
+
+Networking Tools
+
+* Huawei eNSP
+
+Web Development
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Tailwind CSS
+
+Version Control
+
+* Git
+* GitHub
+
+⸻
+
+## Projects
+
+🖧 Huawei eNSP Networking Labs
+
+A collection of networking labs covering routing, switching, VLANs, and network services.
+
+ Personal Portfolio
+
+My personal website showcasing projects, skills, and learning journey.
+
+ 30 Days of JavaScript
+
+A structured JavaScript learning challenge with daily exercises and projects.
+
+ Telegram Tracer
+
+A networking-focused project exploring automation and communication tools.
+
+ Khatma Tracker
+
+A web application designed to help users track Quran reading progress.
+
+⸻
+
+## Current Goals
+
+* Build advanced networking lab environments
+* Develop full-stack web applications
+* Strengthen Linux and system administration skills
+* Secure an internship in Networking or Web Development
+* Contribute to open-source projects
+
+⸻
+
+## Contact
+
+* Email: moadahmedabdesselammekki@gmail.com
+* LinkedIn: www.linkedin.com/in/mekki-moad
+* Portfolio: moad-mekki.github.io/portfolio
