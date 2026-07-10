@@ -35,7 +35,9 @@ I’m a Telecommunications and ICT Engineering student with a strong interest in
 * HTML5
 * CSS3
 * JavaScript
-* React
+* React.js
+* TypeScript
+* Next.js
 * Tailwind CSS
 
 ### Version Control
