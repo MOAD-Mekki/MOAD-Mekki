@@ -4,7 +4,7 @@ Telecommunications & ICT Engineering Student
 
 HCIA-Datacom Certified
 
-Passionate about Networking, System Administration, and Web Development
+Passionate about Networking and Web Development
 
 ⸻
 
@@ -34,11 +34,12 @@ I’m a Telecommunications and ICT Engineering student with a strong interest in
 
 * HTML5
 * CSS3
+* Tailwind CSS
 * JavaScript
 * React.js
 * TypeScript
 * Next.js
-* Tailwind CSS
+* Supabase
 
 ### Version Control
 
@@ -63,7 +64,7 @@ A structured JavaScript learning challenge with daily exercises and projects.
 
 - Telegram Tracer
 
-A networking-focused project exploring automation and communication tools.
+A web application that allows users to interact with Telegram data.
 
 - Khatma Tracker
 
@@ -75,7 +76,6 @@ A web application designed to help users track Quran reading progress.
 
 * Build advanced networking lab environments
 * Develop full-stack web applications
-* Strengthen Linux and system administration skills
 * Secure an internship in Networking or Web Development
 * Contribute to open-source projects
 
